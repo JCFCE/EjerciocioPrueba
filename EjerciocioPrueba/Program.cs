@@ -5,7 +5,7 @@ Console.ReadLine();
 Console.WriteLine("Presione Enter para salir");
 Console.ReadKey();
 
-Console.WriteLine(Console.ReadLine());  
+
 
 
 
